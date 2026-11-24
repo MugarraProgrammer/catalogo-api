@@ -1,0 +1,12 @@
+{
+  "servicios": [
+    { "id": 1, "servicio": "Mantenimiento web", "categoria": "Web", "descripcion": "Actualización de sitios" },
+    { "id": 2, "servicio": "Soporte de correo", "categoria": "Soporte", "descripcion": "Configuración de correo" },
+    { "id": 3, "servicio": "Hosting", "categoria": "Infraestructura", "descripcion": "Alojamiento web" },
+    { "id": 4, "servicio": "Formateo de equipo", "categoria": "Soporte", "descripcion": "Reinstalación del sistema operativo" },
+    { "id": 5, "servicio": "Configuración de red", "categoria": "Redes", "descripcion": "Router, WiFi y cableado" },
+    { "id": 6, "servicio": "Respaldo de datos", "categoria": "Infraestructura", "descripcion": "Copias de seguridad programadas" },
+    { "id": 7, "servicio": "Instalación de software", "categoria": "Soporte", "descripcion": "Programas y licencias" },
+    { "id": 8, "servicio": "Diseño de sitio web", "categoria": "Web", "descripcion": "Creación de página corporativa" }
+  ]
+}
